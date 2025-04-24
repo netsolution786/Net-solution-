@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Net Solution – with Hafiz Mushtaq</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #e1006e;
+      color: white;
+    }
+    header {
+      padding: 2rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 3rem;
+    }
+    h2 {
+      font-weight: normal;
+      margin-top: 0.5rem;
+    }
+    .section {
+      padding: 2rem;
+      background-color: white;
+      color: #e1006e;
+      border-radius: 20px;
+      margin: 2rem auto;
+      width: 90%;
+      max-width: 800px;
+    }
+    .section h3 {
+      margin-top: 0;
+    }
+    .contact {
+      background-color: #fff;
+      color: #e1006e;
+      padding: 1rem;
+      border-radius: 10px;
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #c4005e;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Net Solution</h1>
+    <h2>with Hafiz Mushtaq</h2>
+  </header>  <div class="section">
+    <h3>Our Services</h3>
+    <ul>
+      <li>Facebook likes, followers, and ads</li>
+      <li>Instagram growth & marketing</li>
+      <li>YouTube subscribers, views & optimization</li>
+      <li>Complete social media setup and management</li>
+      <li>Customized digital marketing solutions</li>
+    </ul>
+  </div>  <div class="section">
+    <h3>Have a social media issue?</h3>
+    <p>We provide home visit services in case you're stuck with your social media accounts, ads, or settings. Let Hafiz Mushtaq come and solve it at your place.</p>
+  </div>  <div class="section contact">
+    <h3>Contact Us</h3>
+    <p>Phone / WhatsApp: <strong>0321-1896785</strong></p>
+  </div>  <footer>
+    &copy; 2025 Net Solution – with Hafiz Mushtaq. All rights reserved.
+  </footer>
+</body>
+</html>
